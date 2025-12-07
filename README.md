@@ -8,12 +8,13 @@ The Tasks page allows users to add tasks through an input form. It also automati
 The Weekly Class Schedule page enables users to add class details such as day, time, subject, lecturer, and location, which are instantly shown in a structured timetable. 
 
 ## Instruction to test login.
-1. In the Username field, type the username.
-2. In the Password field, type the password.
-3. Click the Login button.
-4. If the credentials are correct, you will be redirected to the Dashboard page where you can see navigation, introduction of website, charts, and quick links.
-5. If the credentials are incorrect, an error message will appear “Invalid username or password”. try again.
-6. To leave the account, click the Logout button/link in the navigation bar; this returns you to the Login page.
+1. For the first time user, you need to click the 'register'.
+2. In the Username field, type the username.
+3. In the Password field, type the password.
+4. Click the Login button.
+5. If the credentials are correct, you will be redirected to the Dashboard page where you can see navigation, introduction of website, charts, and quick links.
+6. If the credentials are incorrect, an error message will appear “Invalid username or password”. try again.
+7. To leave the account, click the Logout button/link in the navigation bar; this returns you to the Login page.
 
 ## Framework used
 This project uses a custom lightweight JavaScript framework designed to simplify the development of the Study Planner system. It provides reusable modules, a consistent structure, and built-in functionality, allowing developers to quickly add features without rewriting common code.
